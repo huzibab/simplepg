@@ -1,6 +1,6 @@
 @font-face {
     font-family: myFirstFont;
-    src: url(./IMG/VarinoNormal.otf);
+    src: url(VarinoNormal.otf);
   }
 *{
     margin: 0;
