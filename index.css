@@ -57,6 +57,15 @@ li{
     margin-top: 142px;
     font-size: 45px;
     font-family: myFirstFont;
+    animation: fadein 5s;
+}
+@keyframes fadein {
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 .p-art{
     /* display: inline-block; */
